@@ -1,0 +1,23 @@
+{
+  "name": "compare-map-tool",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@urbica/react-map-gl": "0.6.0-beta.5",
+    "from": "0.1.7",
+    "immutable": "4.0.0-rc.9",
+    "import": "0.0.6",
+    "mapbox-gl": "0.44.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.1",
+    "styled": "1.0.0",
+    "styled-components": "3.1.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
